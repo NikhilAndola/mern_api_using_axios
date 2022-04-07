@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "gm": "^1.23.1",
+    "imagemagick": "^0.1.3"
+  }
+}
